@@ -38,7 +38,7 @@ No frameworks or servers required. It's a pure frontend project.
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the live project] (https://shaikhimadoddin.github.io/Hamburger_sidebar/)
+🌐 [Click here to view the live project](https://shaikhimadoddin.github.io/Hamburger_sidebar/)
 
 📬 Connect with Me
 Created by Shaikh Imadoddin
