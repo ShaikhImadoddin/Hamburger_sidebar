@@ -9,37 +9,34 @@ This is a stylish **hamburger sidebar navigation menu** built using only **HTML 
 
 ## 📁 Project Structure
 
-📁 Project Folder
+📁 Hamburger\_sidebar
 ├── index.html
 ├── style.css
-└── assets
+└── assets/
 
+## 📸 Screenshots
 
-## 📸 Screenshot
-
-![screen shot 1](assets/image.png)
-
-![screen shot 2](assets/image-1.png)
-
+![Screenshot 1](assets/image.png)  
+![Screenshot 2](assets/image-1.png)
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/sidebar-menu-project.git
+# 1. Clone the repository
+git clone https://github.com/ShaikhImadoddin/Hamburger_sidebar.git
 
-2. Navigate to the folder:
+# 2. Navigate to the project directory
+cd Hamburger_sidebar
 
-cd sidebar-menu-project
+# 3. Open index.html in your browser
+# You can simply double-click it or right-click > Open with > Browser
 
-3. Open the index.html file in any web browser.
-
-No frameworks or servers required. It's a pure frontend project.
+No frameworks or servers required. It's a **pure frontend project**.
 
 ## 🔗 Live Demo
 
-[Click here to view the live project](https://your-username.github.io/repo-name/)
+🌐 [Click here to view the live project](https://shaikhimadoddin.github.io/Hamburger_sidebar/)
 
-📬 Connect with Me
-Created by Shaikh Imadoddin
-Feel free to connect or contribute!
+## 📬 Connect with Me
+
+Created by **Shaikh Imadoddin**
+Feel free to connect, suggest improvements, or contribute!
