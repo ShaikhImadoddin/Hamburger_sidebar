@@ -36,6 +36,10 @@ cd sidebar-menu-project
 
 No frameworks or servers required. It's a pure frontend project.
 
+## 🔗 Live Demo
+
+[Click here to view the live project](https://your-username.github.io/repo-name/)
+
 📬 Connect with Me
 Created by Shaikh Imadoddin
 Feel free to connect or contribute!
